@@ -15,7 +15,7 @@ npm run dev
 
 ## License & Credit
 
-API Playground is licensed under the **Apache-2.0 License**. You are allowed to do the following:
+API Playground is licensed under the **Apache-2.0 License**. View the full license [here](https://github.com/linuskangsoftware/api-playground/blob/master/LICENSE). You are allowed to do the following:
 
 - ✅ Use, modify, and distribute the software freely, for personal or commercial use
 
